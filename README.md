@@ -2,7 +2,7 @@
 
 I'm Javier López de Ancos and I'm Software Engineer
 
-You could know more about me:
+More about me:
 
 🌀 [Twitter](https://twitter.com/javierland)
 
