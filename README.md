@@ -2,7 +2,11 @@
 
 I'm Javier López de Ancos and I'm Software Engineer
 
-More about me:
+#### Github activity
+
+![Javi's Stats](https://github-readme-stats.vercel.app/api?username=mdelapenya&count_private=true&theme=dracula)
+
+#### More about me
 
 🌀 [Twitter](https://twitter.com/javierland)
 
