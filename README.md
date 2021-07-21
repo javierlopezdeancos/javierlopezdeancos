@@ -14,10 +14,12 @@ I'm Javier López de Ancos and I'm Software Engineer
 
 #### More about me :sunglasses:
 
-🌀 [Twitter](https://twitter.com/javierland)
+<p align="left">
+<a href="https://dev.to/javierland" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="javierland" height="30" width="40" /></a>
+<a href="https://twitter.com/javierland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javierland" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/javierlopezdeancos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javierlopezdeancos" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/javierland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="javierland" height="30" width="40" /></a>
+</p>
 
-🎩 [Linkedin](https://www.linkedin.com/in/javierlopezdeancos/)
-
-🎧 [Spotify](https://open.spotify.com/user/vagabundo)
 
 
