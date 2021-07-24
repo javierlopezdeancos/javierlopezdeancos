@@ -2,14 +2,13 @@
 
 I'm Javier López de Ancos and I'm Software Engineer
 
+# Github activity :mag_right:
+
 ![GitHub followers](https://img.shields.io/github/followers/javierlopezdeancos?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/javierlopezdeancos?style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/javierlopezdeancos?style=social)
 
-# Github activity :mag_right:
-
 ![Javi's Stats](https://github-readme-stats.vercel.app/api?username=javierlopezdeancos&count_private=true)
-
 ![Javis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javierlopezdeancos&layout=compact)
 
 # My dev tools :wrench:
