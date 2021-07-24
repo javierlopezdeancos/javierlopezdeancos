@@ -5,8 +5,6 @@ I'm Javier López de Ancos and I'm Software Engineer
 ![GitHub followers](https://img.shields.io/github/followers/javierlopezdeancos?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/javierlopezdeancos?style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/javierlopezdeancos?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/javierad?style=social)
-
 
 # Github activity :mag_right:
 
