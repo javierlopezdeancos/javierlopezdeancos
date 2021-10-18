@@ -15,6 +15,9 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 
 #### Operating system
 [![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![windows](https://img.shields.io/badge/Windows-02bfff?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com)
+[![apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.microsoft.com)
+
 
 
 #### Design
