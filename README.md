@@ -40,13 +40,13 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 [![https://jekyllrb.com](https://img.shields.io/badge/Jekyll-b50134?style=for-the-badge&logo=jekyll&logoColor=white)](https://ubuntu.com)
 
 #### Database
-[![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![mysql](https://img.shields.io/badge/MySQL-4c657c?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
 #### Back
 [![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com)
-[![nextjs](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=white)](https://nextjs.org)
+[![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=whit)](https://expressjs.com)
+[![nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next&logoColor=white)](https://nextjs.org)
 [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 [![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
 
