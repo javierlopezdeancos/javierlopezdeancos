@@ -18,11 +18,9 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 [![windows](https://img.shields.io/badge/Windows-02bfff?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com)
 [![apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com)
 
-
-
 #### Design
 [![sketch](https://img.shields.io/badge/Sketch-f99407?style=for-the-badge&logo=sketch&logoColor=white)](https://www.sketch.com)
-[![figma](https://img.shields.io/badge/Figma-be17c1?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
+[![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 
 #### Languages
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
@@ -33,7 +31,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 [![coffeescript](https://img.shields.io/badge/Coffeescript-894900?style=for-the-badge&logo=coffeescript&logoColor=white)](https://coffeescript.org)
 
 #### Front
-[![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![reactjs](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
 [![redux.js](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 [![gatsbyjs](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://www.gatsbyjs.com)
