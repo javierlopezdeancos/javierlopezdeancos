@@ -11,6 +11,26 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 ![Javi's Stats](https://github-readme-stats.vercel.app/api?username=javierlopezdeancos&count_private=true)
 ![Javis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javierlopezdeancos&layout=compact)
 
+## Published packages and libraries 
+* [React against de machine](https://github.com/javierlopezdeancos/react-against-the-machine)
+* [Pedigri](https://github.com/javierlopezdeancos/pedigri)
+* [LaGuagua](https://github.com/javierlopezdeancos/laguagua)
+* [Almanaque](https://github.com/javierlopezdeancos/almanaque)
+* [Erre Ele](https://github.com/javierlopezdeancos/erre-ele)
+* [useNetworkState](https://github.com/javierlopezdeancos/react-network-state-hook)
+* [Cologrinchis](https://github.com/javierlopezdeancos/cologrinchis)
+
+## Examples, patherns 
+* [My typescript examples](https://github.com/javierlopezdeancos/my-typescript-examples)
+* [My typescript solid examples](https://github.com/javierlopezdeancos/my-typescript-solid-examples)
+* [My go examples](https://github.com/javierlopezdeancos/my-go-examples)
+
+## Real tests interviews 
+
+[Lauch fetch button](https://github.com/javierlopezdeancos/wayflare-fe-tech-interview)
+[Organization chart](https://github.com/javierlopezdeancos/spqrt)
+[Mines weeper](https://github.com/javierlopezdeancos/mines-weeper)
+
 ## My dev tools 
 
 #### Operating system
