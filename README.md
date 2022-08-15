@@ -45,7 +45,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 #### Languages
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://ubuntu.com)
+[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![coffeescript](https://img.shields.io/badge/Coffeescript-894900?style=for-the-badge&logo=coffeescript&logoColor=white)](https://coffeescript.org)
@@ -56,8 +56,9 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 [![reactjs](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
 [![redux.js](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
+[![react query](https://img.shields.io/badge/-react%20query-gray?style=for-the-badge&logo=reactquery)](https://react-query-v3.tanstack.com/)
 [![gatsbyjs](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://www.gatsbyjs.com)
-[![https://jekyllrb.com](https://img.shields.io/badge/Jekyll-b50134?style=for-the-badge&logo=jekyll&logoColor=white)](https://ubuntu.com)
+[![https://jekyllrb.com](https://img.shields.io/badge/Jekyll-b50134?style=for-the-badge&logo=jekyll&logoColor=white)](https://jekyllrb.com/)
 
 #### Database
 [![mysql](https://img.shields.io/badge/MySQL-4c657c?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
