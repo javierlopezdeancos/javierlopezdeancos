@@ -87,6 +87,5 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 [![blog](https://img.shields.io/badge/blog-0A0A0A?style=for-the-badge&logoColor=white)](https://blog.javierlopezdeancos.dev)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javierlopezdeancos)
 [![hackerank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=green)](https://twitter.com/javierland)
-[![twitter](https://img.shields.io/badge/Twitter-09e5f9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/javierland)
 <a rel="me" href="https://mastodon.social/@javierlopezdeancos"><img src="https://img.shields.io/badge/mastodon-780cf4?style=for-the-badge&logoColor=white" /></a>
 [![spotify.com](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vagabundo)
