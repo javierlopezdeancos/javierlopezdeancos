@@ -23,6 +23,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 ## Examples, patherns 
 * [My typescript examples](https://github.com/javierlopezdeancos/my-typescript-examples)
 * [My typescript solid examples](https://github.com/javierlopezdeancos/my-typescript-solid-examples)
+* [My typescript patherns](https://github.com/javierlopezdeancos/my-typescript-patterns)
 * [My go examples](https://github.com/javierlopezdeancos/my-go-examples)
 
 ## Real tests interviews 
