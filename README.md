@@ -11,6 +11,9 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 ![Javi's Stats](https://github-readme-stats.vercel.app/api?username=javierlopezdeancos&count_private=true)
 ![Javis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javierlopezdeancos&layout=compact)
 
+## Opensource projects contributions
+* [RedHat/Kaoto-ui](https://github.com/KaotoIO/kaoto-ui/pull/1010#event-8151584499)
+
 ## Published packages and libraries 
 * [React against de machine](https://github.com/javierlopezdeancos/react-against-the-machine)
 * [Pedigri](https://github.com/javierlopezdeancos/pedigri)
