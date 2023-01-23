@@ -23,6 +23,9 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 * [useNetworkState](https://github.com/javierlopezdeancos/react-network-state-hook)
 * [Cologrinchis](https://github.com/javierlopezdeancos/cologrinchis)
 
+## Alpha packages and libraries in development
+* [Higgsboson](https://github.com/javierlopezdeancos/higgsboson)
+
 ## Examples, patherns 
 * [My typescript examples](https://github.com/javierlopezdeancos/my-typescript-examples)
 * [My typescript solid examples](https://github.com/javierlopezdeancos/my-typescript-solid-examples)
