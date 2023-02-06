@@ -34,8 +34,8 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 
 ## Real tests interviews 
 
-* [Aircall/Senior Frontend Engineer](https://github.com/javierlopezdeancos/frontend-hiring-test/pull/1)
-* [Wayflyer/Senior Frontend Engineer/Lauch fetch button](https://github.com/javierlopezdeancos/wayflare-fe-tech-interview)
+* [Aircall : Senior Frontend Engineer](https://github.com/javierlopezdeancos/frontend-hiring-test/pull/1)
+* [Wayflyer : Senior Frontend Engineer : Lauch fetch button](https://github.com/javierlopezdeancos/wayflare-fe-tech-interview)
 * [Organization chart](https://github.com/javierlopezdeancos/spqrt)
 * [Mines weeper](https://github.com/javierlopezdeancos/mines-weeper)
 
