@@ -12,7 +12,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 ![Javis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javierlopezdeancos&layout=compact)
 
 ## Opensource projects contributions
-* [RedHat/Kaoto-ui: fix(Visualization): Initial node isn't always centered](https://github.com/KaotoIO/kaoto-ui/pull/1010#event-8151584499)
+* [RedHat : Kaoto-ui: fix(Visualization): Initial node isn't always centered](https://github.com/KaotoIO/kaoto-ui/pull/1010#event-8151584499)
 
 ## Published packages and libraries 
 * [React against de machine](https://github.com/javierlopezdeancos/react-against-the-machine)
