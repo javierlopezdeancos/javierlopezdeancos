@@ -6,6 +6,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 ![GitHub followers](https://img.shields.io/github/followers/javierlopezdeancos?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/javierlopezdeancos?style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/javierlopezdeancos?style=social)
+
 ![Javi's Stats](https://github-readme-stats.vercel.app/api?username=javierlopezdeancos&count_private=true)
 ![Javis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javierlopezdeancos&layout=compact)
 
