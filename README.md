@@ -20,7 +20,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 * [LaGuagua](https://github.com/javierlopezdeancos/laguagua)
 * [Almanaque](https://github.com/javierlopezdeancos/almanaque)
 * [Erre Ele](https://github.com/javierlopezdeancos/erre-ele)
-* [useNetworkState](https://github.com/javierlopezdeancos/react-network-state-hook)
+* [React Network State Hook](https://github.com/javierlopezdeancos/react-network-state-hook)
 * [Cologrinchis](https://github.com/javierlopezdeancos/cologrinchis)
 
 ## Alpha packages and libraries in development
