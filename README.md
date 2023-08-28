@@ -7,9 +7,9 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 ![GitHub User's stars](https://img.shields.io/github/stars/javierlopezdeancos?style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/javierlopezdeancos?style=social)
 
-![Javi's Stats](https://github-readme-stats.vercel.app/api?username=javierlopezdeancos&count_private=true)
+![Javi's Stats](https://github-readme-stats.vercel.app/api?username=javierlopezdeancos&show_icons=true&theme=dracula)
 
-![Javis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javierlopezdeancos&layout=compact)
+![Javis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javierlopezdeancos&layout=compact&theme=dracula)
 
 ## Opensource projects contributions
 * [RedHat : Kaoto-ui : fix(Visualization): Initial node isn't always centered](https://github.com/KaotoIO/kaoto-ui/pull/1010#event-8151584499)
