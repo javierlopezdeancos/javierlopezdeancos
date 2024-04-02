@@ -14,6 +14,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
   * [testcontainers-node](https://github.com/testcontainers/testcontainers-node)
     * [Fix node 20 pipeline](https://github.com/testcontainers/testcontainers-node/pull/728)
     * [Disable Couchbase module in pipeline](https://github.com/testcontainers/testcontainers-node/pull/738)
+    * [Fix errors instaling dependencies in Node 20.x](https://github.com/testcontainers/testcontainers-node/pull/742)
 
 ## Published packages and libraries 
 * [React against de machine](https://github.com/javierlopezdeancos/react-against-the-machine)
