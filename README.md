@@ -17,6 +17,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
     * [Fix errors instaling dependencies in Node 20.x](https://github.com/testcontainers/testcontainers-node/pull/742)
 
 ## Published packages and libraries 
+* [Testcontainers node playwright](https://github.com/javierlopezdeancos/testcontainers-node-playwright)
 * [React against de machine](https://github.com/javierlopezdeancos/react-against-the-machine)
 * [Pedigri](https://github.com/javierlopezdeancos/pedigri)
 * [LaGuagua](https://github.com/javierlopezdeancos/laguagua)
