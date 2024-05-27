@@ -29,7 +29,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 ## Alpha packages and libraries in development
 * [Higgsboson](https://github.com/javierlopezdeancos/higgsboson)
 
-## Examples, patherns 
+## Examples, patherns, tutorials 
 * [My typescript examples](https://github.com/javierlopezdeancos/my-typescript-examples)
 * [My typescript solid examples](https://github.com/javierlopezdeancos/my-typescript-solid-examples)
 * [My typescript patterns](https://github.com/javierlopezdeancos/my-typescript-patterns)
