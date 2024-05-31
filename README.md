@@ -1,6 +1,6 @@
 # Hi 👋, welcome to my Github dev profile
 
-I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *this is my personal site* ) and **I'm Software Engineer**
+I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *this is my personal site* ) and **I'm Software Engineer** with over 25 years of experience designing and developing software for different platforms and different industries.
 
 ## 📉 🔍 Github activity 
 ![GitHub followers](https://img.shields.io/github/followers/javierlopezdeancos?style=social)
