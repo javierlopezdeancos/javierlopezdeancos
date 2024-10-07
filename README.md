@@ -27,7 +27,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 * [Cologrinchis](https://github.com/javierlopezdeancos/cologrinchis)
 
 ## 📦 🍼 Alpha packages and libraries in development
-* [Higgsboson](https://github.com/javierlopezdeancos/higgsboson) A themeable semantic classeless framework to native html components.
+* [Higgsboson](https://codeberg.org/higgsboson/higgsboson) A themeable semantic classeless framework to native html components.
 * [Pugna](https://codeberg.org/pugna/pugna) A galaxy board battle game
 
 ## 📕 📚 Examples, patherns, tutorials 
