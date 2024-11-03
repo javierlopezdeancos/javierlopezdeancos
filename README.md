@@ -35,6 +35,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 * [My typescript solid examples](https://github.com/javierlopezdeancos/my-typescript-solid-examples)
 * [My typescript patterns](https://github.com/javierlopezdeancos/my-typescript-patterns)
 * [Aprende go en español](https://github.com/javierlopezdeancos/aprende-go)
+* [Aprende rust en español](https://github.com/javierlopezdeancos/aprende-rust)
 
 ## 👨🏻‍💻 🎯 Real tests interviews 
 * [Voicemod :: Senior Frontend Engineer](https://github.com/javierlopezdeancos/voicemod-code-challenge)
