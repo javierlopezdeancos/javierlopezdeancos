@@ -8,23 +8,65 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/javierlopezdeancos?style=social)
 
 ## 🚀 💋 Opensource projects contributions
+
+### Red hat
+[https://www.redhat.com](https://www.redhat.com)
+
+#### Kaoto
+[https://kaoto.io](https://kaoto.io)
+
 * [RedHat :: Kaoto-ui :: fix(Visualization): Initial node isn't always centered](https://github.com/KaotoIO/kaoto-ui/pull/1010#event-8151584499)
+
+### Reactjs
+[https://react.dev](https://react.dev/)
+
+#### React js documentation
+[https://react.dev/reference/react](https://react.dev/reference/react)
+
 * [Reactjs :: es.reactjs.org :: Translate api useSyncExternalStore](https://github.com/reactjs/es.reactjs.org/pull/613)
-* [Testcontainers](https://testcontainers.com/)
-  * [testcontainers-node](https://github.com/testcontainers/testcontainers-node)
-    * [Fix node 20 pipeline](https://github.com/testcontainers/testcontainers-node/pull/728)
-    * [Disable Couchbase module in pipeline](https://github.com/testcontainers/testcontainers-node/pull/738)
-    * [Fix errors instaling dependencies in Node 20.x](https://github.com/testcontainers/testcontainers-node/pull/742)
+
+### Testcontainers
+[https://testcontainers.com](https://testcontainers.com/)
+
+#### Testcontainers node
+[https://node.testcontainers.org](https://node.testcontainers.org/)
+
+* [Fix node 20 pipeline](https://github.com/testcontainers/testcontainers-node/pull/728)
+* [Disable Couchbase module in pipeline](https://github.com/testcontainers/testcontainers-node/pull/738)
+* [Fix errors instaling dependencies in Node 20.x](https://github.com/testcontainers/testcontainers-node/pull/742)
 
 ## 🎁 ✨ Published packages and libraries 
-* [Testcontainers node playwright](https://github.com/javierlopezdeancos/testcontainers-node-playwright)
-* [React against de machine](https://github.com/javierlopezdeancos/react-against-the-machine)
-* [Pedigri](https://github.com/javierlopezdeancos/pedigri)
-* [LaGuagua](https://github.com/javierlopezdeancos/laguagua)
-* [Almanaque](https://github.com/javierlopezdeancos/almanaque)
-* [Erre Ele](https://github.com/javierlopezdeancos/erre-ele)
-* [React Network State Hook](https://github.com/javierlopezdeancos/react-network-state-hook)
-* [Cologrinchis](https://github.com/javierlopezdeancos/cologrinchis)
+[Testcontainers node playwright](https://github.com/javierlopezdeancos/testcontainers-node-playwright)
+
+[<img src="https://img.shields.io/npm/v/testcontainers-node-playwright?style=for-the-badge&label=testcontainers-node-playwright" alt="NPM Version">](https://www.npmjs.com/package/testcontainers-node-playwright)
+  
+[React against de machine](https://github.com/javierlopezdeancos/react-against-the-machine)
+
+[<img src="https://img.shields.io/npm/v/react-against-the-machine?style=for-the-badge&label=react-against-the-machine" alt="NPM Version">](https://www.npmjs.com/package/react-against-the-machine)
+
+[Pedigri](https://github.com/javierlopezdeancos/pedigri)
+
+[<img src="https://img.shields.io/npm/v/pedigri?style=for-the-badge&label=pedigri" alt="NPM Version">](https://www.npmjs.com/package/pedigri)
+
+[LaGuagua](https://github.com/javierlopezdeancos/laguagua)
+
+[<img src="https://img.shields.io/npm/v/laguagua?style=for-the-badge&label=laguagua" alt="NPM Version">](https://www.npmjs.com/package/laguagua)
+
+[Almanaque](https://github.com/javierlopezdeancos/almanaque)
+
+[<img src="https://img.shields.io/npm/v/almanaque?style=for-the-badge&label=almanaque" alt="NPM Version">](https://www.npmjs.com/package/almanaque)
+
+[Erre Ele](https://github.com/javierlopezdeancos/erre-ele)
+
+[<img src="https://img.shields.io/npm/v/erre-ele?style=for-the-badge&label=erre-ele" alt="NPM Version">](https://www.npmjs.com/package/erre-ele)
+
+[React Network State Hook](https://github.com/javierlopezdeancos/react-network-state-hook)
+
+[<img src="https://img.shields.io/npm/v/react-network-state-hook?style=for-the-badge&label=react-network-state-hook" alt="NPM Version">](https://www.npmjs.com/package/react-network-state-hook)
+
+[Cologrinchis](https://github.com/javierlopezdeancos/cologrinchis)
+
+[<img src="https://img.shields.io/npm/v/cologrinchis?style=for-the-badge&label=cologrinchis" alt="NPM Version">](https://www.npmjs.com/package/cologrinchis)
 
 ## 📦 🍼 Alpha packages and libraries in development
 * [Higgsboson](https://codeberg.org/higgsboson/higgsboson) A themeable semantic classeless framework to native html components.
