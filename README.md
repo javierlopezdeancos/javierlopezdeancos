@@ -7,7 +7,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 ![GitHub User's stars](https://img.shields.io/github/stars/javierlopezdeancos?style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/javierlopezdeancos?style=social)
 
-## 🚀 💋 Opensource projects contributions
+## 🚀 🫶 Opensource projects contributions
 
 ### Red hat
 [https://www.redhat.com](https://www.redhat.com)
