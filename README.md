@@ -76,6 +76,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 * [My typescript examples](https://github.com/javierlopezdeancos/my-typescript-examples)
 * [My typescript solid examples](https://github.com/javierlopezdeancos/my-typescript-solid-examples)
 * [My typescript patterns](https://github.com/javierlopezdeancos/my-typescript-patterns)
+* [Aprende typescript en español](https://github.com/javierlopezdeancos/aprende-typescript)
 * [Aprende go en español](https://github.com/javierlopezdeancos/aprende-go)
 * [Aprende rust en español](https://github.com/javierlopezdeancos/aprende-rust)
 
