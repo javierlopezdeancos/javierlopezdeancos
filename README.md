@@ -72,7 +72,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 * [Higgsboson](https://codeberg.org/higgsboson/higgsboson) A themeable semantic classeless framework to native html components.
 * [Pugna](https://codeberg.org/pugna/pugna) A galaxy board battle game
 
-## 📕 📚 Learn in spanish with my examples, exercises, patherns and tutorials by language
+## 📕 📚 Learn in spanish with me by language
 * [My typescript examples](https://github.com/javierlopezdeancos/my-typescript-examples)
 * [My typescript solid examples](https://github.com/javierlopezdeancos/my-typescript-solid-examples)
 * [My typescript patterns](https://github.com/javierlopezdeancos/my-typescript-patterns)
