@@ -73,9 +73,6 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 * [Pugna](https://codeberg.org/pugna/pugna) A galaxy board battle game
 
 ## 📕 📚 Learn with me
-* [My typescript examples](https://github.com/javierlopezdeancos/my-typescript-examples)
-* [My typescript solid examples](https://github.com/javierlopezdeancos/my-typescript-solid-examples)
-* [My typescript patterns](https://github.com/javierlopezdeancos/my-typescript-patterns)
 * [Aprende typescript en castellano](https://github.com/javierlopezdeancos/aprende-typescript)
 * [Aprende go en castellano](https://github.com/javierlopezdeancos/aprende-go)
 * [Aprende rust en castellano](https://github.com/javierlopezdeancos/aprende-rust)
