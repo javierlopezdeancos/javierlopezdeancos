@@ -87,7 +87,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 * [Correcto :: Senior frontend Engineer](https://github.com/javierlopezdeancos/frontend-assignment)
 * [Amenitiz :: Senior frontend Engineer](https://github.com/javierlopezdeancos/fe-technical-challenge)
 * [Nationale Netherlanden :: Senior frontend Engineer](https://github.com/javierlopezdeancos/nationale-netherlanden-test-challenge)
-* [Revolut](https://github.com/javierlopezdeancos/revolut-test-interview)
+* [Revolut :: Senior frontend Engineer](https://github.com/javierlopezdeancos/revolut-test-interview)
 
 ## 🤓 💾 More about me 
 [![blog](https://img.shields.io/badge/blog-0A0A0A?style=for-the-badge&logoColor=white)]([https://blog.javierlopezdeancos.dev](https://javierlopezdeancos.dev/blog))
