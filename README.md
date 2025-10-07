@@ -7,6 +7,8 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 ![GitHub User's stars](https://img.shields.io/github/stars/javierlopezdeancos?style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/javierlopezdeancos?style=social)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=javierlopezdeancos&label=Profile%20views&color=0e75b6&style=flat" alt="javierlopezdeancos pofile views" /> </p>
+
 ## 🚀 🫶 Opensource projects contributions
 
 ### Red hat
