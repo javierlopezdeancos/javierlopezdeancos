@@ -84,12 +84,12 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 * [Nationale Netherlanden :: Senior frontend Engineer :: 2025](https://github.com/javierlopezdeancos/nationale-netherlanden-test-challenge)
 * [Correcto :: Senior frontend Engineer :: 2025](https://github.com/javierlopezdeancos/frontend-assignment)
 * [Amenitiz :: Senior frontend Engineer :: 2025](https://github.com/javierlopezdeancos/fe-technical-challenge)
-* [Voicemod :: Senior Frontend Engineer](https://github.com/javierlopezdeancos/voicemod-code-challenge)
-* [Elastic :: Sernior Frontend Engineer :: Wikipedia links view ](https://github.com/javierlopezdeancos/elastic-wikipedia-links-view-hiring-test)
-* [Aircall :: Senior Frontend Engineer](https://github.com/javierlopezdeancos/frontend-hiring-test/pull/1)
-* [Wayflyer :: Senior Frontend Engineer :: Lauch fetch button](https://github.com/javierlopezdeancos/wayflare-fe-tech-interview)
-* [Organization chart](https://github.com/javierlopezdeancos/spqrt)
-* [Mines weeper](https://github.com/javierlopezdeancos/mines-weeper)
+* [Elastic :: Sernior Frontend Engineer :: Wikipedia links view :: 2023](https://github.com/javierlopezdeancos/elastic-wikipedia-links-view-hiring-test)
+* [Voicemod :: Senior Frontend Engineer :: 2023](https://github.com/javierlopezdeancos/voicemod-code-challenge)
+* [Aircall :: Senior Frontend Engineer :: 2023](https://github.com/javierlopezdeancos/frontend-hiring-test/pull/1)
+* [Wayflyer :: Senior Frontend Engineer :: Lauch fetch button :: 2022](https://github.com/javierlopezdeancos/wayflare-fe-tech-interview)
+* [Organization chart :: 2021](https://github.com/javierlopezdeancos/spqrt)
+* [Mines weeper :: 2021](https://github.com/javierlopezdeancos/mines-weeper)
 
 ## 🤓 💾 More about me 
 [![blog](https://img.shields.io/badge/blog-0A0A0A?style=for-the-badge&logoColor=white)]([https://blog.javierlopezdeancos.dev](https://javierlopezdeancos.dev/blog))
