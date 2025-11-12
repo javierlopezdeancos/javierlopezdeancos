@@ -41,37 +41,14 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 * [Fix errors instaling dependencies in Node 20.x](https://github.com/testcontainers/testcontainers-node/pull/742)
 
 ## 🎁 ✨ Published packages and libraries 
-[Testcontainers node playwright](https://github.com/javierlopezdeancos/testcontainers-node-playwright)
-
-[<img src="https://img.shields.io/npm/v/testcontainers-node-playwright?style=for-the-badge&label=testcontainers-node-playwright" alt="NPM Version">](https://www.npmjs.com/package/testcontainers-node-playwright)
-  
-[React against de machine](https://github.com/javierlopezdeancos/react-against-the-machine)
-
-[<img src="https://img.shields.io/npm/v/react-against-the-machine?style=for-the-badge&label=react-against-the-machine" alt="NPM Version">](https://www.npmjs.com/package/react-against-the-machine)
-
-[Pedigri](https://github.com/javierlopezdeancos/pedigri)
-
-[<img src="https://img.shields.io/npm/v/pedigri?style=for-the-badge&label=pedigri" alt="NPM Version">](https://www.npmjs.com/package/pedigri)
-
-[LaGuagua](https://github.com/javierlopezdeancos/laguagua)
-
-[<img src="https://img.shields.io/npm/v/laguagua?style=for-the-badge&label=laguagua" alt="NPM Version">](https://www.npmjs.com/package/laguagua)
-
-[Almanaque](https://github.com/javierlopezdeancos/almanaque)
-
-[<img src="https://img.shields.io/npm/v/almanaque?style=for-the-badge&label=almanaque" alt="NPM Version">](https://www.npmjs.com/package/almanaque)
-
-[Erre Ele](https://github.com/javierlopezdeancos/erre-ele)
-
-[<img src="https://img.shields.io/npm/v/erre-ele?style=for-the-badge&label=erre-ele" alt="NPM Version">](https://www.npmjs.com/package/erre-ele)
-
-[React Network State Hook](https://github.com/javierlopezdeancos/react-network-state-hook)
-
-[<img src="https://img.shields.io/npm/v/react-network-state-hook?style=for-the-badge&label=react-network-state-hook" alt="NPM Version">](https://www.npmjs.com/package/react-network-state-hook)
-
-[Cologrinchis](https://github.com/javierlopezdeancos/cologrinchis)
-
-[<img src="https://img.shields.io/npm/v/cologrinchis?style=for-the-badge&label=cologrinchis" alt="NPM Version">](https://www.npmjs.com/package/cologrinchis)
+* [Testcontainers node playwright](https://github.com/javierlopezdeancos/testcontainers-node-playwright) : : [v0.5.5](https://www.npmjs.com/package/testcontainers-node-playwright)
+* [React against de machine](https://github.com/javierlopezdeancos/react-against-the-machine) : : [v0.1.4](https://www.npmjs.com/package/react-against-the-machine)
+* [Pedigri](https://github.com/javierlopezdeancos/pedigri) : : [v0.3.1](https://www.npmjs.com/package/pedigri)
+* [LaGuagua](https://github.com/javierlopezdeancos/laguagua) : : [v0.2.0](https://www.npmjs.com/package/laguagua)
+* [Almanaque](https://github.com/javierlopezdeancos/almanaque) : : [v0.1.3](https://www.npmjs.com/package/almanaque)
+* [Erre Ele](https://github.com/javierlopezdeancos/erre-ele) : : [v0.2.2](https://www.npmjs.com/package/erre-ele)
+* [React Network State Hook](https://github.com/javierlopezdeancos/react-network-state-hook) : : [v0.3.1](https://www.npmjs.com/package/react-network-state-hook)
+* [Cologrinchis](https://github.com/javierlopezdeancos/cologrinchis) : : [v0.2.0](https://www.npmjs.com/package/cologrinchis)
 
 ## 📦 🍼 Alpha packages and libraries in development
 * [Higgsboson](https://codeberg.org/higgsboson/higgsboson) A themeable semantic classeless framework to native html components.
@@ -83,17 +60,17 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 * [Aprende rust en castellano](https://github.com/javierlopezdeancos/aprende-rust)
 
 ## 👨🏻‍💻 🎯 Train with me real tests interviews
-* [Myedspace :: Senior frontend Engineer :: 2025](https://github.com/javierlopezdeancos/my-ed-space-tech-interview)
-* [Revolut :: Senior frontend Engineer :: 2025](https://github.com/javierlopezdeancos/revolut-test-interview)
-* [Nationale Netherlanden :: Senior frontend Engineer :: 2025](https://github.com/javierlopezdeancos/nationale-netherlanden-test-challenge)
-* [Correcto :: Senior frontend Engineer :: 2025](https://github.com/javierlopezdeancos/frontend-assignment)
-* [Amenitiz :: Senior frontend Engineer :: 2025](https://github.com/javierlopezdeancos/fe-technical-challenge)
-* [Elastic :: Sernior Frontend Engineer :: Wikipedia links view :: 2023](https://github.com/javierlopezdeancos/elastic-wikipedia-links-view-hiring-test)
-* [Voicemod :: Senior Frontend Engineer :: 2023](https://github.com/javierlopezdeancos/voicemod-code-challenge)
-* [Aircall :: Senior Frontend Engineer :: 2023](https://github.com/javierlopezdeancos/frontend-hiring-test/pull/1)
-* [Wayflyer :: Senior Frontend Engineer :: Lauch fetch button :: 2022](https://github.com/javierlopezdeancos/wayflare-fe-tech-interview)
-* [Organization chart :: 2021](https://github.com/javierlopezdeancos/spqrt)
-* [Mines weeper :: 2021](https://github.com/javierlopezdeancos/mines-weeper)
+* [Myedspace : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/my-ed-space-tech-interview)
+* [Revolut : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/revolut-test-interview)
+* [Nationale Netherlanden : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/nationale-netherlanden-test-challenge)
+* [Correcto : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/frontend-assignment)
+* [Amenitiz : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/fe-technical-challenge)
+* [Elastic : : Sernior Frontend Engineer : : Wikipedia links view : : 2023](https://github.com/javierlopezdeancos/elastic-wikipedia-links-view-hiring-test)
+* [Voicemod : : Senior Frontend Engineer : : 2023](https://github.com/javierlopezdeancos/voicemod-code-challenge)
+* [Aircall : : Senior Frontend Engineer :: 2023](https://github.com/javierlopezdeancos/frontend-hiring-test/pull/1)
+* [Wayflyer : : Senior Frontend Engineer : : Lauch fetch button : : 2022](https://github.com/javierlopezdeancos/wayflare-fe-tech-interview)
+* [Organization chart : : 2021](https://github.com/javierlopezdeancos/spqrt)
+* [Mines weeper : : 2021](https://github.com/javierlopezdeancos/mines-weeper)
 
 ## 🤓 💾 More about me 
 [![blog](https://img.shields.io/badge/blog-0A0A0A?style=for-the-badge&logoColor=white)]([https://blog.javierlopezdeancos.dev](https://javierlopezdeancos.dev/blog))
