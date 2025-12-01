@@ -60,7 +60,8 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 * [Aprende rust en castellano](https://github.com/javierlopezdeancos/aprende-rust)
 
 ## 👨🏻‍💻 🎯 Train with me real tests interviews
-* [Myedspace : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/my-ed-space-tech-interview)
+* [Myedspace : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/my-ed-space-tech-interview)  [![Netlify Status](https://api.netlify.com/api/v1/badges/ba2ecbc0-eced-4028-b7fa-71cb114fdce5/deploy-status)](https://my-ed-space-tech-interview.netlify.app)
+
 * [Revolut : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/revolut-test-interview)
 * [Nationale Netherlanden : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/nationale-netherlanden-test-challenge)
 * [Correcto : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/frontend-assignment)
