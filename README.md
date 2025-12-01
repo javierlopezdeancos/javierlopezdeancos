@@ -64,6 +64,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 
 * [Revolut : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/revolut-test-interview)
 * [Nationale Netherlanden : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/nationale-netherlanden-test-challenge)
+* [Material UI : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/tech-challenge-react)
 * [Correcto : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/frontend-assignment)
 * [Amenitiz : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/fe-technical-challenge)
 * [Elastic : : Sernior Frontend Engineer : : Wikipedia links view : : 2023](https://github.com/javierlopezdeancos/elastic-wikipedia-links-view-hiring-test)
