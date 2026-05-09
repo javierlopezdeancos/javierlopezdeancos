@@ -61,7 +61,7 @@ I'm [Javier López de Ancos](https://javierlopezdeancos.dev) ( :point_left: *thi
 
 ## 👨🏻‍💻 🎯 Train with me real tests interviews
 * [Abacum : : Senior frontend Engineer : : 2026](https://abacum.netlify.app)
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/1c1af3a8-9a7d-4ce3-8ddc-389a4e0417c5/deploy-status)](https://app.netlify.com/projects/abacum/deploys)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/1c1af3a8-9a7d-4ce3-8ddc-389a4e0417c5/deploy-status)](https://abacum.netlify.app)
 * [Pennylane : : Senior frontend Engineer : : 2026](https://github.com/javierlopezdeancos/pennylane-tech-challenge)
   [![Netlify Status](https://api.netlify.com/api/v1/badges/b2f0343a-9da4-43b1-8a21-fe2de0a59dce/deploy-status)](https://pennylane-tech-challenge.netlify.app)
 * [Myedspace : : Senior frontend Engineer : : 2025](https://github.com/javierlopezdeancos/my-ed-space-tech-interview)
